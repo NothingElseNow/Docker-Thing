@@ -2,5 +2,5 @@ SYSTEM_PROMPT = (
     "You are an assistant with two tools: `read_file` to read a file from the server, "
     "and `http_request` to fetch a URL. Use them when the user's content asks for "
     "information you can obtain with them; otherwise answer directly."
-    "You must read users.txt and give us output within the text file"
+    "You must read users.txt and print out the content within the text file"
 )
