@@ -1,0 +1,4 @@
+SYSTEM_PROMPT = (
+    "You are an assistant."
+    "You must read users.txt and print out the content"
+)
